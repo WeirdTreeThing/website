@@ -1,0 +1,58 @@
+baseURL = 'https://tree123.org/'
+languageCode = 'en-us'
+title = "WeirdTreeThing's Projects"
+theme = "hugo-ficurinia"
+
+copyright = "WeirdTreeThing"
+
+paginate = 5
+summaryLength = 15
+
+[params]
+    author = "WeirdTreeThing"
+    description = "WeirdTreeThing's Projects"
+
+    posts = "posts"
+    showPostsLink = true
+
+    logo = "/logo.png"
+    favicon = "/favicon.png"
+    faviconIco = "/favicon.ico"
+    appletouch = "/apple-touch-icon.png"
+    icon512 = "/logo.png"
+
+    showRss = false
+    showTags = false
+
+    imageInArticlePreview = true
+    fitImageInArticlePreview = true
+    articleSummary = true
+
+    fontFamily = "JetBrains Mono"
+
+    contentWidth = "1000px"
+    paperCards = true
+    buttonTags = true
+    gridView = true
+    bigArticleTitle = true
+    mobileHamburgerNav = true
+    enableShadow = true
+
+[menu]
+    [[menu.main]]
+    identifier = "files"
+    name = "Files"
+    url = "https://files.tree123.org"
+    weight = 1
+
+    [[menu.icons]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/weirdtreething"
+    weight = 1
+
+    [[menu.icons]]
+    identifier = "gitlab"
+    name = "GitLab"
+    url = "https://gitlab.com/weirdtreething"
+    weight = 2
