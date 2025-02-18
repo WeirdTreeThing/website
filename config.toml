@@ -1,6 +1,6 @@
 baseURL = 'https://tree123.org/'
 languageCode = 'en-us'
-title = "WeirdTreeThing's Projects"
+title = "WeirdTreeThing's Site"
 theme = "hugo-ficurinia"
 
 copyright = "WeirdTreeThing"
