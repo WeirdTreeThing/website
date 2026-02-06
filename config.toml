@@ -45,14 +45,20 @@ summaryLength = 15
     url = "https://files.tree123.org"
     weight = 1
 
+    [[menu.main]]
+    identifier = "chromebooks"
+    name = "Chromebooks"
+    url = "https://chromebooks.lol"
+    weight = 1
+
     [[menu.icons]]
     identifier = "github"
-    name = "GitHub"
+    name = "Github"
     url = "https://github.com/weirdtreething"
     weight = 1
 
     [[menu.icons]]
     identifier = "gitlab"
-    name = "GitLab"
+    name = "Gitlab"
     url = "https://gitlab.com/weirdtreething"
     weight = 2
