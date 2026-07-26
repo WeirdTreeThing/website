@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "WeirdTreeThing's Site"
 theme = "hugo-ficurinia"
 
-copyright = "WeirdTreeThing"
+copyright = "Brady Norander"
 
 paginate = 5
 summaryLength = 15
