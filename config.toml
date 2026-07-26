@@ -10,7 +10,7 @@ summaryLength = 15
 
 [params]
     author = "WeirdTreeThing"
-    description = "WeirdTreeThing's Projects"
+    description = "WeirdTreeThing's Site"
 
     posts = "posts"
     showPostsLink = true
