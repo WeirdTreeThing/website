@@ -9,7 +9,7 @@ paginate = 5
 summaryLength = 15
 
 [params]
-    author = "WeirdTreeThing"
+    author = "Brady Norander"
     description = "WeirdTreeThing's Site"
 
     posts = "posts"
