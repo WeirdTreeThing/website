@@ -21,7 +21,7 @@ summaryLength = 15
     appletouch = "/apple-touch-icon.png"
     icon512 = "/logo.png"
 
-    showRss = true
+    showRss = false
     showTags = false
 
     imageInArticlePreview = true
@@ -52,13 +52,19 @@ summaryLength = 15
     weight = 1
 
     [[menu.icons]]
+    identifier = "rss"
+    name = "RSS"
+    url = "https://tree123.org/posts/index.xml"
+    weight = 1
+
+    [[menu.icons]]
     identifier = "github"
     name = "Github"
     url = "https://github.com/weirdtreething"
-    weight = 1
+    weight = 2
 
     [[menu.icons]]
     identifier = "gitlab"
     name = "Gitlab"
     url = "https://gitlab.com/weirdtreething"
-    weight = 2
+    weight = 3
