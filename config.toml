@@ -21,7 +21,7 @@ summaryLength = 15
     appletouch = "/apple-touch-icon.png"
     icon512 = "/logo.png"
 
-    showRss = false
+    showRss = true
     showTags = false
 
     imageInArticlePreview = true
