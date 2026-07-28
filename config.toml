@@ -1,5 +1,5 @@
-baseURL = 'https://tree123.org/'
-languageCode = 'en-us'
+baseURL = "https://tree123.org/"
+languageCode = "en-us"
 title = "WeirdTreeThing's Site"
 theme = "hugo-ficurinia"
 
@@ -9,7 +9,7 @@ paginate = 5
 summaryLength = 15
 
 [params]
-    author = "Brady Norander"
+    author = { name = "Brady Norander", email = "bradyn127@protonmail.com" }
     description = "WeirdTreeThing's Site"
 
     posts = "posts"
